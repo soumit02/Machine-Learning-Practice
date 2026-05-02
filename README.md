@@ -9,8 +9,7 @@ Welcome to my Machine Learning practice repository! This project contains variou
 *   **Libraries:** Pandas, NumPy, Matplotlib, Seaborn *(update these as you use more)*
 
 ## 📂 Project Structure
-*   `notebooks/` - Contains all the Jupyter Notebook (`.ipynb`) files with the problem solutions and explanations.
-*   `data/` - Datasets used for training and testing the models.
+*   `src/` - Contains all the Jupyter Notebook (`.ipynb`) files with the problem solutions and explanations.
 *   `requirements.txt` - List of all Python dependencies required to run the notebooks.
 
 ## ⚙️ Local Setup Guide
