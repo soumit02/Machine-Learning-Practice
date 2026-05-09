@@ -6,7 +6,7 @@ Welcome to my Machine Learning practice repository! This project contains variou
 *   **Programming Language:** Python
 *   **Environment:** VS Code, Jupyter Notebook
 *   **Operating System:** Windows
-*   **Libraries:** Pandas, NumPy, Matplotlib, Seaborn 
+*   **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, scikit-learn
 
 ## 📂 Project Structure
 *   `src/` - Contains all the Jupyter Notebook (`.ipynb`) files with the problem solutions and explanations.
